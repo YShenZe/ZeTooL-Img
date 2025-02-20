@@ -12,7 +12,7 @@ from colorama import init, Fore
 #     /    \ 
 #    /      \
 #   |        |
-#   |  O  O  |  佛祖保佑
+#   |  O  O  |  
 #   |    ^   |
 #   |   ---  |  
 #    \______/
